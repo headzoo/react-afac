@@ -2,7 +2,7 @@
   "name": "react-afac",
   "version": "0.0.1",
   "main": "dist/index.js",
-  "description": "Another Font Awesome React Component.",
+  "description": "Another Font Awesome Component.",
   "author": {
     "name": "Sean Hickey",
     "web": "http://headzoo.io"
